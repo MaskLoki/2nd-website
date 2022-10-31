@@ -1,0 +1,59 @@
+body {
+    background-color: antiquewhite;
+    align-items: center;
+    float: inline-end;
+
+}
+#button3:hover    {
+    background-color: red;
+    cursor: pointer;
+}
+#button4:hover    {
+    background-color: blue;
+    cursor: pointer;
+}
+#button5:hover    {
+    background-color: green;
+    cursor: pointer;
+}
+#button6:hover    {
+    background-color: pink;
+    cursor: pointer;
+}
+
+#button3 {
+    background-color: #EB0C0C;
+    padding: 10px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+#button4 {
+    background-color: #0CEBE8;
+    padding: 10px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+#button5 {
+    background-color: #317731;
+    padding: 10px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+#button6 {
+    background-color: #000300;
+    padding: 10px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid black;
+    color: white;
+}
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color: aquamarine;
+    color: black;
+    text-align: right;
+}
